@@ -11,11 +11,14 @@ $ whoami
 
 ### <code>$ ls ./proyectos</code>
 
-| Proyecto | ES | EN |
+| Proyecto | Qué hace | Tecnología |
 |---|---|---|
-| **ZER0** | Plataforma de coaching de fitness y nutrición en producción. TypeScript, Next.js y PostgreSQL, 646 tests. Repo privado: demo bajo petición. | Fitness & nutrition coaching platform in production. TypeScript, Next.js and PostgreSQL, 646 tests. Private repo: demo on request. |
-| **[Taller de Pedidos](https://github.com/miquel-moreno/taller-pedidos-demo)** | Lee pedidos en texto libre (WhatsApp, email), extrae los datos, asigna prioridad y los ordena en colas de trabajo. Node.js, Express y SQLite. | Reads free-text orders (WhatsApp, email), extracts the data, sets a priority and queues them for the workshop. Node.js, Express and SQLite. |
-| **[TMI Plegadores](https://github.com/miquelmorenoai-droid/tmi-web)** | Web corporativa para TMI System, taller de plegado de chapa. | Company website for TMI System, a sheet-metal bending workshop. |
+| **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL |
+| **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · APIs REST · SQL |
+| **[TMI n8n Automations](https://github.com/miquel-moreno/tmi-n8n-automations)** | Pedidos del correo al taller sin registro manual | n8n · Google Drive · Telegram |
+| **[TMI Pricing & Invoicing](https://github.com/miquel-moreno/tmi-pricing-invoicing)** | Presupuestos y facturas en PDF para un taller de chapa | Python · Flask · SQLite |
+| **[TMI Order Management](https://github.com/miquel-moreno/tmi-order-management)** | Convierte pedidos en texto libre en colas de trabajo · [demo en vivo](https://demo-taller.tmisystem.com) | Node.js · Express · SQLite |
+| **[TMI Website](https://github.com/miquel-moreno/tmi-website)** | Web corporativa · [tmisystem.com](https://tmisystem.com) | HTML · CSS · JavaScript |
 
 ### <code>$ cat ./experiencia.log</code>
 
