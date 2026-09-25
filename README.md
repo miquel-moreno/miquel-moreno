@@ -16,7 +16,6 @@ $ whoami
 | **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL |
 | **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · APIs REST · SQL |
 | **[TMI n8n Automations](https://github.com/miquel-moreno/tmi-n8n-automations)** | Pedidos del correo al taller sin registro manual | n8n · Google Drive · Telegram |
-| **[TMI Pricing & Invoicing](https://github.com/miquel-moreno/tmi-pricing-invoicing)** | Presupuestos y facturas en PDF para un taller de chapa | Python · Flask · SQLite |
 | **[TMI Order Management](https://github.com/miquel-moreno/tmi-order-management)** | Panel de pedidos del taller en producción: ficha y etiqueta automáticas desde el correo | JavaScript · PostgreSQL · PDF |
 | **[TMI Website](https://github.com/miquel-moreno/tmi-website)** | Web corporativa · [tmisystem.com](https://tmisystem.com) | HTML · CSS · JavaScript |
 
