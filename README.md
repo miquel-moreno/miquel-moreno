@@ -5,19 +5,16 @@ $ whoami
 > Miquel Moreno — Automatización de procesos · IA aplicada · Full-stack
 ~~~
 
-**ES** · Automatizo procesos de empresa con n8n, Python e integraciones por API, y llevo cada proyecto desde el análisis hasta el servidor en producción. Antes, tres años administrando la infraestructura de una empresa industrial.
-
-**EN** · I automate business processes with n8n, Python and API integrations, taking each project from analysis to a production server. Before that, three years running the infrastructure of an industrial company.
+Automatizo procesos de empresa con n8n, Python e integraciones por API, y llevo cada proyecto desde el análisis hasta el servidor en producción. Antes, tres años administrando la infraestructura de una empresa industrial.
 
 ### <code>$ ls ./proyectos</code>
 
 | Proyecto | Qué hace | Tecnología |
 |---|---|---|
-| **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL |
-| **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · APIs REST · SQL |
-| **[TMI n8n Automations](https://github.com/miquel-moreno/tmi-n8n-automations)** | Pedidos del correo al taller sin registro manual | n8n · Google Drive · Telegram |
-| **[TMI Order Management](https://github.com/miquel-moreno/tmi-order-management)** | Panel de pedidos del taller en producción: ficha y etiqueta automáticas desde el correo | JavaScript · PostgreSQL · PDF |
-| **[TMI Website](https://github.com/miquel-moreno/tmi-website)** | Web corporativa · [tmisystem.com](https://tmisystem.com) | HTML · CSS · JavaScript |
+| **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL · Prisma |
+| **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · Amazon SP-API y Ads API · SQL |
+| **[TMI n8n Automations](https://github.com/miquel-moreno/tmi-n8n-automations)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram | n8n · JavaScript · Gotenberg |
+| **[TMI Order Management](https://github.com/miquel-moreno/tmi-order-management)** | Panel de pedidos del taller en producción, con ficha y etiqueta automáticas | JavaScript · Node.js · PostgreSQL |
 
 ### <code>$ cat ./experiencia.log</code>
 
@@ -53,5 +50,4 @@ $ whoami
 ~~~bash
 $ echo $STATUS
 > Disponible para incorporarme · remoto o híbrido desde Barcelona
-> Available to join · remote or hybrid from Barcelona
 ~~~
