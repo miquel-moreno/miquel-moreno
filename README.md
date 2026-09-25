@@ -14,7 +14,7 @@ $ whoami
 | Proyecto | ES | EN |
 |---|---|---|
 | **ZER0** | Plataforma de coaching de fitness y nutrición en producción. TypeScript, Next.js y PostgreSQL, 646 tests. Repo privado: demo bajo petición. | Fitness & nutrition coaching platform in production. TypeScript, Next.js and PostgreSQL, 646 tests. Private repo: demo on request. |
-| **[Taller de Pedidos](https://github.com/msellerteam-coder/taller-pedidos-demo)** | Lee pedidos en texto libre (WhatsApp, email), extrae los datos, asigna prioridad y los ordena en colas de trabajo. Node.js, Express y SQLite. | Reads free-text orders (WhatsApp, email), extracts the data, sets a priority and queues them for the workshop. Node.js, Express and SQLite. |
+| **[Taller de Pedidos](https://github.com/miquel-moreno/taller-pedidos-demo)** | Lee pedidos en texto libre (WhatsApp, email), extrae los datos, asigna prioridad y los ordena en colas de trabajo. Node.js, Express y SQLite. | Reads free-text orders (WhatsApp, email), extracts the data, sets a priority and queues them for the workshop. Node.js, Express and SQLite. |
 | **[TMI Plegadores](https://github.com/miquelmorenoai-droid/tmi-web)** | Web corporativa para TMI System, taller de plegado de chapa. | Company website for TMI System, a sheet-metal bending workshop. |
 
 ### <code>$ cat ./experiencia.log</code>
