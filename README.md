@@ -2,10 +2,10 @@
 
 ~~~bash
 $ whoami
-> Miquel Moreno — Automatización de procesos · IA aplicada · Full-stack
+> Miquel Moreno — Desarrollador backend · APIs · Automatización
 ~~~
 
-Automatizo procesos de empresa con n8n, Python e integraciones por API, y llevo cada proyecto desde el análisis hasta el servidor en producción. Antes, tres años administrando la infraestructura de una empresa industrial.
+Desarrollador backend: construyo APIs, integraciones y procesos de datos con Python, Node.js, PHP y SQL, y automatizo procesos con n8n. Llevo cada proyecto desde el análisis hasta el servidor en producción. Antes, tres años administrando la infraestructura de una empresa industrial.
 
 ### <code>$ ls ./proyectos</code>
 
