@@ -13,17 +13,15 @@ Desarrollador backend: construyo APIs, integraciones y procesos de datos con Pyt
 |---|---|---|
 | **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL · Prisma |
 | **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · Amazon SP-API y Ads API · SQL |
-| **[TMI n8n Automations](https://github.com/miquel-moreno/tmi-n8n-automations)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram | n8n · JavaScript · Gotenberg |
-| **[TMI Order Management](https://github.com/miquel-moreno/tmi-order-management)** | Panel de pedidos del taller en producción, con ficha y etiqueta automáticas | JavaScript · Node.js · PostgreSQL |
+| **[n8n Order Automation](https://github.com/miquel-moreno/n8n-order-automation)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram | n8n · JavaScript · Gotenberg |
+| **[Workshop Order Management](https://github.com/miquel-moreno/workshop-order-management)** | Panel de pedidos del taller en producción, con ficha y etiqueta automáticas | JavaScript · Node.js · PostgreSQL |
 
 ### <code>$ cat ./experiencia.log</code>
 
 ~~~text
-2025 → hoy    Responsable de Automatización de Procesos · Tenkai Global
-              n8n (email → PDF → Google Drive → Telegram) · Python/Flask · Docker
-
-2024 → hoy    Responsable Técnico y de Datos · Ionea Global
-              Rentabilidad por producto vía API de Amazon · SQL · previsión de stock
+2024 → hoy    Desarrollador backend y automatización · Proyectos propios
+              APIs de Amazon con Python y SQL · n8n (email → PDF → Drive → Telegram)
+              Flask · Docker · Linux
 
 2024 → 2025   Desarrollador Full Stack · NavionTruck
               PHP · Laravel · bases de datos
@@ -41,7 +39,9 @@ Desarrollador backend: construyo APIs, integraciones y procesos de datos con Pyt
 | **Datos** | SQL · PostgreSQL · SQLite · Oracle |
 | **Infraestructura** | Docker · Linux · Microsoft Azure · VMware · Windows Server |
 
-**Formación** · Grado Superior en Administración de Sistemas Informáticos en Red (ASIR), perfil en ciberseguridad · 2022–2024
+**Formación**
+- Grado Superior en Administración de Sistemas Informáticos en Red (ASIR), perfil en ciberseguridad · 2022–2024
+- Bootcamp de Desarrollo web · OpenBootcamp · 2020–2021
 
 ### <code>$ ./contacto</code>
 
