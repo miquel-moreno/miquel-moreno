@@ -1,4 +1,4 @@
-íáá···<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · APIs · Automatización" width="100%">
+<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · APIs · Automatización" width="100%">
 
 ~~~bash
 $ whoami
