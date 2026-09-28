@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · APIs · Automatización" width="100%">
+íáá···<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · APIs · Automatización" width="100%">
 
 ~~~bash
 $ whoami
@@ -12,6 +12,7 @@ Desarrollador backend: construyo APIs, integraciones y procesos de datos con Pyt
 | Proyecto | Qué hace | Tecnología |
 |---|---|---|
 | **[Facturas y pedidos a datos con IA](https://github.com/miquel-moreno/doc-extractor-api)** | Convierte facturas y pedidos (PDF o email) en datos validados; lo que no cuadra va a revisión humana | Python · FastAPI · IA · PostgreSQL · Redis |
+| **[Pregunta a tu convenio colectivo](https://github.com/miquel-moreno/convenio-rag)** | Responde preguntas sobre convenios del BOE citando el artículo, y dice cuándo la respuesta no está | Python · FastAPI · RAG · PostgreSQL + pgvector |
 | **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL · Prisma |
 | **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · Amazon SP-API y Ads API · SQL |
 | **[n8n Order Automation](https://github.com/miquel-moreno/n8n-order-automation)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram | n8n · JavaScript · Gotenberg |
@@ -35,9 +36,9 @@ Desarrollador backend: construyo APIs, integraciones y procesos de datos con Pyt
 
 | | |
 |---|---|
-| **Automatización** | n8n · Python · APIs REST · Webhooks · OAuth 2.0 · Integración de LLMs |
+| **Automatización** | n8n · Python · APIs REST · Webhooks · OAuth 2.0 · Integración de LLMs · RAG |
 | **Desarrollo** | Flask · FastAPI · JavaScript · TypeScript · Next.js · Node.js · PHP · Laravel · Git |
-| **Datos** | SQL · PostgreSQL · SQLite · Oracle |
+| **Datos** | SQL · PostgreSQL · SQLite · Oracle · pgvector |
 | **Infraestructura** | Docker · Linux · Microsoft Azure · VMware · Windows Server |
 
 **Formación**
