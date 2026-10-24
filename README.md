@@ -1,55 +1,40 @@
-<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · APIs · Automatización" width="100%">
+<img src="./banner.png" alt="Miquel Moreno — Desarrollador backend · Automatización e IA" width="100%">
 
 ~~~bash
 $ whoami
-> Miquel Moreno — Desarrollador backend · APIs · Automatización
+> Miquel Moreno — Desarrollador backend · Automatización e IA
 ~~~
 
-Desarrollador backend: construyo APIs, integraciones y procesos de datos con Python, Node.js, PHP y SQL, y automatizo procesos con n8n. Llevo cada proyecto desde el análisis hasta el servidor en producción. Antes, tres años administrando la infraestructura de una empresa industrial.
+Desarrollo APIs, integraciones y automatizaciones con Python, Node.js, PHP y SQL, y aplicaciones con IA: agentes, extracción de documentos y RAG. Llevo cada proyecto del análisis a producción.
 
 ### <code>$ ls ./proyectos</code>
 
 | Proyecto | Qué hace | Tecnología |
 |---|---|---|
-| **[Facturas y pedidos a datos con IA](https://github.com/miquel-moreno/doc-extractor-api)** | Convierte facturas y pedidos (PDF o email) en datos validados; lo que no cuadra va a revisión humana | Python · FastAPI · IA · PostgreSQL · Redis |
-| **[Pregunta a tu convenio colectivo](https://github.com/miquel-moreno/convenio-rag)** | Responde preguntas sobre convenios del BOE citando el artículo, y dice cuándo la respuesta no está | Python · FastAPI · RAG · PostgreSQL + pgvector |
-| **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL · Prisma |
-| **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · Amazon SP-API y Ads API · SQL |
-| **[n8n Order Automation](https://github.com/miquel-moreno/n8n-order-automation)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram | n8n · JavaScript · Gotenberg |
-| **[Workshop Order Management](https://github.com/miquel-moreno/workshop-order-management)** | Panel de pedidos del taller en producción, con ficha y etiqueta automáticas | JavaScript · Node.js · PostgreSQL |
+| **[Asistente de emails con IA](https://github.com/miquel-moreno/support-agent)** | Consulta el pedido y redacta la respuesta al cliente; una persona la aprueba antes de enviarla | Python · LangGraph · FastAPI · PostgreSQL |
+| **[Facturas y pedidos a datos con IA](https://github.com/miquel-moreno/doc-extractor-api)** | Convierte facturas y pedidos en PDF en datos validados; lo que no cuadra va a revisión humana | Python · FastAPI · PostgreSQL · Redis |
+| **[n8n Order Automation](https://github.com/miquel-moreno/n8n-order-automation)** | Pedidos del correo al taller: ficha PDF, Drive y aviso por Telegram. En producción | n8n · JavaScript · Docker |
+| **[ZER0](https://github.com/miquel-moreno/zer0-coaching-platform)** | Plataforma de coaching de fitness y nutrición en producción | TypeScript · Next.js · PostgreSQL |
+| **[Amazon Profitability Hub](https://github.com/miquel-moreno/amazon-profitability-hub)** | Beneficio real por producto cruzando las APIs de Amazon | Python · Amazon SP-API · SQL |
 
 ### <code>$ cat ./experiencia.log</code>
 
 ~~~text
-2024 → hoy    Desarrollador backend y automatización · Proyectos propios
-              APIs de Amazon con Python y SQL · n8n (email → PDF → Drive → Telegram)
-              Flask · Docker · Linux
-
-2024 → 2025   Desarrollador Full Stack · NavionTruck
-              PHP · Laravel · bases de datos
-
+2024 → hoy    Desarrollador backend · Automatización e IA · Proyectos propios
+2025 → 2026   Desarrollador de software · Lumon          Python · SQL · API de Google Maps
+2024 → 2025   Desarrollador Full Stack · NavionTruck     PHP · Laravel · APIs
 2020 → 2023   Administrador de Sistemas · Bermad Europe
-              Windows Server · VMware · Microsoft Azure · Oracle
 ~~~
 
 ### <code>$ cat ./stack</code>
 
 | | |
 |---|---|
-| **Automatización** | n8n · Python · APIs REST · Webhooks · OAuth 2.0 · Integración de LLMs · RAG |
-| **Desarrollo** | Flask · FastAPI · JavaScript · TypeScript · Next.js · Node.js · PHP · Laravel · Git |
-| **Datos** | SQL · PostgreSQL · SQLite · Oracle · pgvector |
-| **Infraestructura** | Docker · Linux · Microsoft Azure · VMware · Windows Server |
+| **IA** | LangGraph · RAG · pgvector · APIs de OpenAI y Anthropic |
+| **Backend** | Python · FastAPI · Flask · Node.js · PHP · Laravel · APIs REST · OAuth 2.0 |
+| **Automatización** | n8n · Webhooks |
+| **Datos e infraestructura** | PostgreSQL · SQL · Redis · Docker · Linux · Git |
 
-**Formación**
-- Grado Superior en Administración de Sistemas Informáticos en Red (ASIR), perfil en ciberseguridad · 2022–2024
-- Bootcamp de Desarrollo web · OpenBootcamp · 2020–2021
+**Formación:** Grado Superior ASIR (2022–2024) · Bootcamp de Desarrollo web, OpenBootcamp (2020–2021)
 
-### <code>$ ./contacto</code>
-
-[LinkedIn](https://www.linkedin.com/in/miquel-moreno-martinez) · [miquel.moreno.martinez@gmail.com](mailto:miquel.moreno.martinez@gmail.com) · Pallejà, Barcelona
-
-~~~bash
-$ echo $STATUS
-> Disponible para incorporarme · remoto o híbrido desde Barcelona
-~~~
+[LinkedIn](https://www.linkedin.com/in/miquel-moreno-martinez) · [miquel.moreno.martinez@gmail.com](mailto:miquel.moreno.martinez@gmail.com) · Remoto o híbrido desde Barcelona
